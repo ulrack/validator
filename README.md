@@ -1,3 +1,5 @@
+# DEPRECATION NOTICE: this package has been moved and improved at [grizz-it/validator](https://github.com/grizz-it/validator)
+
 [![Build Status](https://travis-ci.com/ulrack/validator.svg?branch=master)](https://travis-ci.com/ulrack/validator)
 
 # Ulrack Validator
